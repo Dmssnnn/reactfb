@@ -131,7 +131,15 @@ code {
   justify-content: center;
 }
 .postPlace {
+  display: flex;
+  justify-content: center;
+  align-items: center;
   width: 100%;
   height: 300px;
-  background-color: blue;
+}
+
+.postPlace h1 {
+  font-size: 15px;
+  background-color: white;
+  padding: 1%;
 }
