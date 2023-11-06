@@ -31,7 +31,7 @@ const FacebookPost = () => {
         />
       </div>
       <div className="postPlace">
-        <h1>{submittedPost} </h1>
+        <h1>{submittedPost}</h1>
       </div>
     </div>
   );
